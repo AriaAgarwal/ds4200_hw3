@@ -1,0 +1,22 @@
+h1.main {
+    text-align: center; 
+  }
+  
+h3.matcha {
+    text-align: center; 
+  }
+
+.main {
+    background-color: rgb(243, 191, 200)
+  }
+  
+.matcha {
+    background-color: rgb(188, 219, 188); 
+  }
+ol.matcha {
+    border: 3px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(212, 212, 212);; 
+  }
+  
+ 
